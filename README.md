@@ -1,6 +1,6 @@
 # hobby finder
 
-This program will take as input your TikTok data and match you to a personality group. The result is then mapped to a collection of hobbies to help you find the ones that fit you the most. 
+This program will take as input your TikTok/Instagram data and match you to a personality group. The result is then mapped to a collection of hobbies to help you find the ones that fit you the most. 
 
 Social media like TikTok and Instagram track your data so precisely that it is almost unthinkable. The thing is that they use it to make more and more money while trapping their users in an addictive loop. 
 
