@@ -40,7 +40,4 @@ for idx, att in enumerate(attributes):
     for i in range(len(values)):
         f.write(values[i] + "\n")
 
-# favorite hashtags - 6
-# favorite videos - 29
-# following list - 65
-# like list - 158
+        
