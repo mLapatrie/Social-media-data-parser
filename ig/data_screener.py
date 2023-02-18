@@ -12,7 +12,7 @@ data_types = ["your_topics", "saved_posts", "ads_interests", "videos_watched"]
 for idx, t in enumerate(data_types):
 
   # open json file and create a variable "data"
-  with open('ig/data/{}.json'.format(t), 'r') as t_dict:
+  with open('ig/data/{}.json'.format(t), 'r', encoding='utf8') as t_dict:
     data = json.load(t_dict)
 
   try:
