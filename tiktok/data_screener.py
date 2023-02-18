@@ -9,7 +9,7 @@ start_time = time.time()
 file_name = "user_data"
 
 # open json file and create a variable "data"
-with open('tiktok/data/{}.json'.format(file_name), 'r') as t_dict:
+with open('tiktok/data/{}.json'.format(file_name), 'r', encoding='utf8') as t_dict:
     data = json.load(t_dict)
 
 # information about the direction of each json attribute we are looking for
@@ -17,7 +17,8 @@ attributes= [
     ["Favorite Hashtags", "FavoriteHashtagList", "Link"], 
     ["Favorite Videos", "FavoriteVideoList", "Link"], 
     ["Following List", "Following", "UserName"], 
-    ["Like List", "ItemFavoriteList", "Link"]]
+    ["Like List", "ItemFavoriteList", "Link"]
+]
 
 
 # look through every listed json attribute
