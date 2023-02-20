@@ -1,0 +1,33 @@
+{
+    "Profiles": [
+        {
+            "title": "Musician",
+            "interests": ["Music", "Rock", "Alternative", "Classic", "Pop", "Pop music"],
+            "hobbies": ["Writing music", "Playing music", "Learning a new instrument", "Listening/reading music"],
+            "intersections": [
+                {
+                    "intersection title": "Artist", 
+                    "intersection interests": ["Drawing music"]
+                },
+                {
+                    "intersection title": "Writer", 
+                    "intersection interests": ["Writing about a music"]
+                }]
+        },
+        {
+            "title": "Artist",
+            "interests": ["Art", "Drawing", "Painting", "Sculpting", "Photography"],
+            "hobbies": ["Drawing", "Painting", "Sculpting", "Scrapbooking", "Photography"],
+            "intersections": [
+                {
+                    "intersection title": "Musician",
+                    "intersection interests": ["Drawing music"]
+                },
+                {
+                    "intersection title": "Writer",
+                    "intersection interests": ["Writing about a music"]
+                }
+            ]
+        }
+    ]
+}
