@@ -28,6 +28,21 @@
                     "intersection interests": ["Writing about a music"]
                 }
             ]
+        },
+        {
+            "title": "Writer",
+            "interests": ["Writing", "Bloging", "Note taking", "Poems"],
+            "hobbies": ["Writing", "Writing a book", "Writing poems", "Note taking"],
+            "intersections": [
+                {
+                    "intersection title": "Musician",
+                    "intersection interests": ["Writing about music"]
+                },
+                {
+                    "intersection title": "Artist",
+                    "intersection interests": ["Writing a caligram"]
+                }
+            ]
         }
     ]
 }
