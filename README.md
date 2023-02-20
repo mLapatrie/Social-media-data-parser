@@ -11,3 +11,7 @@ While it is difficult to stop them, we can try to educate people about it and he
 
 Instagram gives much more detailed informations about the data they collect than TikTok. This means it is easier to get valuable data out of instagram's data files than tiktok's. 
 
+# Instagram
+
+Instagram's algorithm creates a list of your interests and ad interests. This list can be directly accessed and makes it way easier to create a profile about the user. Moreover, we can track down the user's favorite accounts and get their bio directly from instagram. This allows the program to take all of this data and create a precise profile of the user.
+
