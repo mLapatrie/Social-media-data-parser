@@ -12,7 +12,12 @@
                 {
                     "intersection title": "Writer", 
                     "intersection interests": ["Writing about a music"]
-                }]
+                },
+                {
+                    "intersection title": "Gamer",
+                    "intersection interests": ["Creating video game music"]
+                }
+            ]
         },
         {
             "title": "Artist",
@@ -26,6 +31,10 @@
                 {
                     "intersection title": "Writer",
                     "intersection interests": ["Writing about a music"]
+                },
+                {
+                    "intersection title": "Gamer",
+                    "intersection interests": ["Creating a 3d model for a game", "Drawing the story of a game", "Creating a board game"]
                 }
             ]
         },
@@ -41,6 +50,10 @@
                 {
                     "intersection title": "Artist",
                     "intersection interests": ["Writing a caligram"]
+                },
+                {
+                    "intersection title": "Gamer",
+                    "intersection interests": ["Writing the story of a game"]
                 }
             ]
         },
