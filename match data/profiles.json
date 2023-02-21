@@ -43,6 +43,25 @@
                     "intersection interests": ["Writing a caligram"]
                 }
             ]
+        },
+        {
+            "title": "Gamer",
+            "interests": ["Games", "Board games", "Video games", "Strategy"],
+            "hobbies": ["Playing board games", "Playing video games", "Speedrunning", "Learning new strategies"],
+            "intersections": [
+                {
+                    "intersection title": "Musician",
+                    "intersection interests": ["Creating video game music"]
+                },
+                {
+                    "intersection title": "Artist",
+                    "intersection interests": ["Creating a 3d model for a game", "Drawing the story of a game", "Creating a board game"]
+                },
+                {
+                    "intersection title": "Writer",
+                    "intersection interests": ["Writing the story of a game"]
+                }
+            ]
         }
     ]
 }
