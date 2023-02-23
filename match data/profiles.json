@@ -75,6 +75,33 @@
                     "intersection interests": ["Writing the story of a game"]
                 }
             ]
+        },
+        {
+            "title": "Self-help",
+            "interests": ["Books", "Self-help", "Yoga", "Smoothies", "Pinterest", "Meditation"],
+            "hobbies": ["Create your routine", "Make an agenda", "Meditate"],
+            "intersections": [
+                {
+                    "intersection title": "Musician",
+                    "intersection interests": ["Create the perfect playlist"]
+                },
+                {
+                    "intersection title": "Artist",
+                    "intersection interests": ["Describe your mood through your medium"]
+                },
+                {
+                    "intersection title": "Writer",
+                    "intersection interests": ["Start journaling"]
+                },
+                {
+                    "intersection title": "Gamer",
+                    "intersection interests": ["Create a gaming set up"]
+                },
+                {
+                    "intersection title": "Athlete",
+                    "intersection interests": ["Learn a new yoga routine"]
+                }
+            ]
         }
     ]
 }
