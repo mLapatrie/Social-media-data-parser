@@ -102,6 +102,33 @@
                     "intersection interests": ["Learn a new yoga routine"]
                 }
             ]
+        },
+        {
+            "title": "Athlete",
+            "interests": ["Games", "Sports", "Football", "Soccer", "Tennis", "Natation", "Training", "Running"],
+            "hobbies": ["Going for a run", "Try a new sport", "Learn a new technique", "Learning new strategies"],
+            "intersections": [
+                {
+                    "intersection title": "Musician",
+                    "intersection interests": ["Fine tune your perfect training playlist"]
+                },
+                {
+                    "intersection title": "Artist",
+                    "intersection interests": ["Run and draw"]
+                },
+                {
+                    "intersection title": "Writer",
+                    "intersection interests": ["Run and write"]
+                },
+                {
+                    "intersection title": "Gamer",
+                    "intersection interests": ["Play a VR game", "Develop a VR game"]
+                },
+                {
+                    "intersection title": "Self-help",
+                    "intersection interests": ["Learn a new yoga routine"]
+                }
+            ]
         }
     ]
 }
